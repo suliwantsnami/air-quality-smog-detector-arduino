@@ -6,6 +6,25 @@ NAME: MUHAMMAD SULEMAN ELAHI
 
 SAP: 70172884
 
+NAME: ALI HASSAN
+
+
+SAP: 70152765
+
+NAME: ARMAGHAN NASIR
+
+
+SAP:  70172753
+
+NAME: JAMEEL WAIN
+
+
+SAP:  70175218
+
+
+
+
+
 
 📌 Overview
 This project implements a real-time **Air Quality and Smog Detection System** using an **Arduino Uno** and an **MQ-135 gas sensor**.  
